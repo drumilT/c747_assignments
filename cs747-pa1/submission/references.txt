@@ -1,0 +1,2 @@
+CS747 slides for implementation direction
+stackoverflow for python related guidance like np.argwhere
